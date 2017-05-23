@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyFirstProj", "MyFirstProj\MyFirstProj.vcxproj", "{8F66C984-3C95-4B62-A515-D144D420EFF5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyFirstProj", "MyFirstProj\MyFirstProj\MyFirstProj.vcxproj", "{8F66C984-3C95-4B62-A515-D144D420EFF5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MySecondProj", "..\MySecondProj\MySecondProj.vcxproj", "{C41E09AA-402D-4CB5-9442-79D359B6A883}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MySecondProj", "MySecondProj\MySecondProj.vcxproj", "{C41E09AA-402D-4CB5-9442-79D359B6A883}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
